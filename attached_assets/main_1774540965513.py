@@ -146,4 +146,5 @@ def meteoritos():
         pygame.display.update()
 
 #llamada al main
-meteoritos()
+if __name__ == '__main__':
+    meteoritos()
