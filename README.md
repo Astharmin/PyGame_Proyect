@@ -151,10 +151,4 @@ MIT © [Astharmin](https://github.com/Astharmin)
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f2a,100:1a1f3a&height=100&section=footer" />
-</div>
-
----
-
 ⭐ **¿Te gustó el proyecto? ¡Dale una estrella en GitHub para apoyarlo!** ⭐
