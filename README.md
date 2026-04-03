@@ -89,26 +89,6 @@ Este proyecto combina dos mundos que rara vez se encuentran:
 | **Vite Preview** | Servicio del frontend |
 | **Pygame Runtime** | Ejecución del backend en la nube |
 
-## 📁 Estructura del Proyecto
-
-```
-meteoritos/
-├── src/                      # Frontend React + TypeScript
-│   ├── components/           # Componentes UI (Radix UI)
-│   ├── App.tsx              # Componente principal
-│   └── main.tsx             # Punto de entrada
-├── python/                   # Backend Pygame
-│   ├── meteoritos.py        # Lógica principal del juego
-│   ├── clases/
-│   │   ├── jugador.py       # Clase Nave
-│   │   └── asteroides.py    # Clase Asteroide
-│   ├── imagenes/            # Sprites y fondos
-│   └── sonidos/             # Efectos de audio
-├── package.json             # Dependencias frontend
-├── vite.config.ts           # Configuración Vite
-└── README.md                # Este archivo
-```
-
 ## 🎯 Características del Juego
 
 | Característica | Descripción |
